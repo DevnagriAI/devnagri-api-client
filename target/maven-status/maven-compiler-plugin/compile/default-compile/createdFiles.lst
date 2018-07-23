@@ -1,0 +1,9 @@
+com/devnagri/api/GenerateTokenClient.class
+com/devnagri/api/DevnagriConfiguration.class
+com/devnagri/api/SyncClient.class
+com/devnagri/api/InitClient.class
+com/devnagri/api/PullClient.class
+com/devnagri/api/MainClass.class
+com/devnagri/api/PushClient.class
+com/devnagri/api/StatusClient.class
+com/devnagri/api/RestClient.class
