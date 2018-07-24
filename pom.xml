@@ -7,7 +7,7 @@
     <!-- ********************************************** -->
     <groupId>com.devnagri</groupId>
     <artifactId>devnagri-api-client</artifactId>
-    <version>1.0.28</version>
+    <version>1.0.33-SNAPSHOT</version>
 
 
         <name>Basic Maven Project</name>
@@ -49,6 +49,11 @@
             <name>gauravtyagi01-maven-api</name>
             <url>https://api.bintray.com/maven/gauravtyagi01/maven-api/devnagri-api-client/;publish=1</url>
         </repository>
+        <snapshotRepository>
+            <id>bintray-gauravtyagi01-maven-api</id>
+            <name>gauravtyagi01-maven-api</name>
+            <url>https://api.bintray.com/maven/gauravtyagi01/maven-api/devnagri-api-client/;publish=1</url>
+        </snapshotRepository>
     </distributionManagement>
 
         <!-- ********************************************** -->
